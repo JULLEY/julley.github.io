@@ -126,6 +126,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "linkedIn"
+      icon: "fab fa-fw fa-linked-in"
+      url: "https://www.linkedin.com/in/leo-choi-2a099b218/"
 
 # Site Footer
 footer:
