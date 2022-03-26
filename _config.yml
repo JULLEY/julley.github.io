@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Leo's Programming"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Life is divided into before and after tasting chickens for the first time."
 name                     : "Hyunwoong Leo Choi"
 description              : "Hello 😎"
 url                      : "https://julley.github.io"
@@ -126,9 +126,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "linkedIn"
-      icon: "fab fa-linked-in"
-      url: "https://www.linkedin.com/in/leo-choi-2a099b218/"
+    # - label: "linkedIn"
+    #   icon: "fab fa-linked-in"
+    #   url: "https://www.linkedin.com/in/leo-choi-2a099b218/"
 
 # Site Footer
 footer:
